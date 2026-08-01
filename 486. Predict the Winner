@@ -14,3 +14,10 @@ public:
 };
 
 //daily challenge 01/August/2026
+
+**Approach**
+The Instant Win: First things first, check the length of the array. If it's even, don't even bother doing any heavy lifting. Player 1 is guaranteed to win, so just return true.
+The Strategy for Odd Lengths: If it's odd, we can use a super compact 1D array to track the game.
+We look at smaller chunks of the array and figure out the best move. If it's your turn, you pick either the left end or the right end. Your new advantage is the number you just picked, minus the best advantage your friend can get from whatever is left.
+We calculate this for every possible chunk, building up to the full array.
+In the end, if Player 1's final advantage is 0 or greater, they win!
