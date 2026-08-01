@@ -1,0 +1,27 @@
+class Solution {
+  public boolean judgeSquareSum(int c) {
+    for (int div = 2; div * div <= c; div++) {
+            if (c % div == 0) {
+                int ec = 0;
+                while (c % div == 0) {
+                    ec++;
+                    c /= div;
+                }
+                if (div % 4 == 3 && ec % 2 != 0) {
+                    return false;
+                }
+            }
+        }
+        return c % 4 != 3;
+    }
+}
+
+**Approach**
+Prime Factorization:
+We start by iterating over possible divisors i from 2 to √c.
+For each i, if i is a divisor of c, we count how many times i divides c (i.e., the power of i in the prime factorization of c.
+If i mod 4 = 3 and the power of i is odd, then c cannot be expressed as the sum of two squares, and we return false.
+Remaining Prime Factor:
+After checking all divisors up to √{c}, if the remaining value of c1 is of the form 4k + 3, it must be raised to an even power. If it's not, we return false.
+Final Check:
+If none of the above conditions for returning false are met, we return true.
