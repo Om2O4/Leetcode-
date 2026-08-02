@@ -1,0 +1,15 @@
+class Solution {
+public:
+    bool stoneGame(vector<int>& piles) {
+        return true;
+    }
+};
+
+//daily challenge 2/August/2026
+
+**Approach**
+Observe that there is always an even number of piles.
+Alice can decide to collect either all even-indexed piles or all odd-indexed piles.
+Since the total number of stones is odd, one parity must have a strictly larger sum.
+Alice chooses that parity and can always force the game to follow that strategy.
+Hence, the answer is always true.
