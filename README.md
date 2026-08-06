@@ -29,4 +29,12 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Om2O4/Leetcode-/tree/master/3310-remove-methods-from-project) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Om2O4/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Om2O4/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
