@@ -41,6 +41,7 @@ The solutions in this repository are primarily implemented in:
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Om2O4/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Om2O4/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -64,4 +65,12 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Om2O4/Leetcode-/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Om2O4/Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
