@@ -118,4 +118,8 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Om2O4/Leetcode-/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Om2O4/Leetcode-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
