@@ -122,4 +122,5 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Om2O4/Leetcode-/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Om2O4/Leetcode-/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
