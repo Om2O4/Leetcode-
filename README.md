@@ -79,6 +79,7 @@ The solutions in this repository are primarily implemented in:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2O4/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Om2O4/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
@@ -106,6 +107,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Om2O4/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,4 +127,8 @@ The solutions in this repository are primarily implemented in:
 | [0181-employees-earning-more-than-their-managers](https://github.com/Om2O4/Leetcode-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Om2O4/Leetcode-/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Om2O4/Leetcode-/tree/master/0197-rising-temperature) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Om2O4/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
