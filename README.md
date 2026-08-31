@@ -177,4 +177,8 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Om2O4/Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Om2O4/Leetcode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
