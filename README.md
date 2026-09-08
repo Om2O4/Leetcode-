@@ -100,6 +100,7 @@ The solutions in this repository are primarily implemented in:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2O4/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0485-max-consecutive-ones](https://github.com/Om2O4/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Om2O4/Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
@@ -145,6 +146,7 @@ The solutions in this repository are primarily implemented in:
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Om2O4/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
@@ -169,6 +171,7 @@ The solutions in this repository are primarily implemented in:
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Om2O4/Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Om2O4/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Om2O4/Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -210,4 +213,8 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Om2O4/Leetcode-/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
