@@ -100,6 +100,7 @@ The solutions in this repository are primarily implemented in:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2O4/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Om2O4/Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Om2O4/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Om2O4/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
