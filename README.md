@@ -37,6 +37,7 @@ The solutions in this repository are primarily implemented in:
 | [1510-stone-game-iv](https://github.com/Om2O4/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/Om2O4/Leetcode-/tree/master/1927-sum-game) |
+| [2485-find-the-pivot-integer](https://github.com/Om2O4/Leetcode-/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Om2O4/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Om2O4/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Om2O4/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -130,6 +131,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
+| [2485-find-the-pivot-integer](https://github.com/Om2O4/Leetcode-/tree/master/2485-find-the-pivot-integer) |
 | [3904-smallest-stable-index-ii](https://github.com/Om2O4/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
