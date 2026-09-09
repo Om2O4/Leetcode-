@@ -43,6 +43,7 @@ The solutions in this repository are primarily implemented in:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Om2O4/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Om2O4/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Om2O4/Leetcode-/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Om2O4/Leetcode-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Om2O4/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Om2O4/Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
