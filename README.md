@@ -64,6 +64,7 @@ The solutions in this repository are primarily implemented in:
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Om2O4/Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Om2O4/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3407-substring-matching-pattern](https://github.com/Om2O4/Leetcode-/tree/master/3407-substring-matching-pattern) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Om2O4/Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
@@ -230,4 +231,8 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Om2O4/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/Om2O4/Leetcode-/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
