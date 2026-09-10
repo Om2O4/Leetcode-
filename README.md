@@ -56,6 +56,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Om2O4/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Om2O4/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Om2O4/Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Om2O4/Leetcode-/tree/master/1927-sum-game) |
@@ -71,6 +72,7 @@ The solutions in this repository are primarily implemented in:
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 | [1927-sum-game](https://github.com/Om2O4/Leetcode-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Om2O4/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -88,6 +90,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Om2O4/Leetcode-/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Om2O4/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2O4/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -226,4 +229,5 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Om2O4/Leetcode-/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
