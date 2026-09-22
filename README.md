@@ -195,6 +195,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Om2O4/Leetcode-/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/Om2O4/Leetcode-/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Om2O4/Leetcode-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Om2O4/Leetcode-/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Om2O4/Leetcode-/tree/master/0197-rising-temperature) |
