@@ -93,6 +93,7 @@ The solutions in this repository are primarily implemented in:
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Om2O4/Leetcode-/tree/master/0016-3sum-closest) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -114,6 +115,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Om2O4/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Om2O4/Leetcode-/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Om2O4/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2O4/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0485-max-consecutive-ones](https://github.com/Om2O4/Leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -170,6 +172,7 @@ The solutions in this repository are primarily implemented in:
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Om2O4/Leetcode-/tree/master/0016-3sum-closest) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Om2O4/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
