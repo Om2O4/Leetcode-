@@ -194,6 +194,7 @@ The solutions in this repository are primarily implemented in:
 | [0182-duplicate-emails](https://github.com/Om2O4/Leetcode-/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Om2O4/Leetcode-/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Om2O4/Leetcode-/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/Om2O4/Leetcode-/tree/master/0596-classes-with-at-least-5-students) |
 ## Hash Table
 |  |
 | ------- |
