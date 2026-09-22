@@ -60,6 +60,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Om2O4/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Om2O4/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Om2O4/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Om2O4/Leetcode-/tree/master/0940-distinct-subsequences-ii) |
@@ -75,6 +76,7 @@ The solutions in this repository are primarily implemented in:
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Om2O4/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Om2O4/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -201,6 +203,7 @@ The solutions in this repository are primarily implemented in:
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Om2O4/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Om2O4/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Om2O4/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
