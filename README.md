@@ -285,5 +285,6 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Om2O4/Leetcode-/tree/master/1114-print-in-order) |
+| [1195-fizz-buzz-multithreaded](https://github.com/Om2O4/Leetcode-/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/Om2O4/Leetcode-/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
