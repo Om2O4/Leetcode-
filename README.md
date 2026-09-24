@@ -33,6 +33,7 @@ The solutions in this repository are primarily implemented in:
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Om2O4/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
@@ -62,6 +63,7 @@ The solutions in this repository are primarily implemented in:
 | [0014-longest-common-prefix](https://github.com/Om2O4/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Om2O4/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Om2O4/Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Om2O4/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -239,6 +241,7 @@ The solutions in this repository are primarily implemented in:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Om2O4/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Om2O4/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Om2O4/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -259,6 +262,7 @@ The solutions in this repository are primarily implemented in:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Om2O4/Leetcode-/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
