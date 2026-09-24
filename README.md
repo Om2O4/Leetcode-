@@ -97,6 +97,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0016-3sum-closest](https://github.com/Om2O4/Leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Om2O4/Leetcode-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Om2O4/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -248,6 +249,7 @@ The solutions in this repository are primarily implemented in:
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Om2O4/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Om2O4/Leetcode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
 |  |
