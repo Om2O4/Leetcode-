@@ -260,6 +260,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Om2O4/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Om2O4/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Om2O4/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Om2O4/Leetcode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
 |  |
@@ -279,6 +280,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Om2O4/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Om2O4/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Om2O4/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Om2O4/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
