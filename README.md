@@ -106,6 +106,7 @@ The solutions in this repository are primarily implemented in:
 | [0018-4sum](https://github.com/Om2O4/Leetcode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Om2O4/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Om2O4/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Om2O4/Leetcode-/tree/master/0027-remove-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -130,6 +131,7 @@ The solutions in this repository are primarily implemented in:
 | [0016-3sum-closest](https://github.com/Om2O4/Leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Om2O4/Leetcode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Om2O4/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Om2O4/Leetcode-/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Om2O4/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2O4/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0485-max-consecutive-ones](https://github.com/Om2O4/Leetcode-/tree/master/0485-max-consecutive-ones) |
