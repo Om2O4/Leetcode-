@@ -35,6 +35,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Om2O4/Leetcode-/tree/master/0069-sqrtx) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Om2O4/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
@@ -299,6 +300,7 @@ The solutions in this repository are primarily implemented in:
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Om2O4/Leetcode-/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Om2O4/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Concurrency
 |  |
@@ -313,4 +315,8 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Om2O4/Leetcode-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
