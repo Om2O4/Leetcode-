@@ -70,6 +70,7 @@ The solutions in this repository are primarily implemented in:
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Om2O4/Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Om2O4/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Om2O4/Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Om2O4/Leetcode-/tree/master/1927-sum-game) |
@@ -320,6 +321,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
@@ -336,4 +338,8 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Om2O4/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
