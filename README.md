@@ -66,6 +66,7 @@ The solutions in this repository are primarily implemented in:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Om2O4/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Om2O4/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
@@ -119,6 +120,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Om2O4/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Om2O4/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -324,6 +326,7 @@ The solutions in this repository are primarily implemented in:
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -347,6 +350,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
