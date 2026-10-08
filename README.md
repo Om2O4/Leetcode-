@@ -71,6 +71,7 @@ The solutions in this repository are primarily implemented in:
 | [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Om2O4/Leetcode-/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Om2O4/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -327,6 +328,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -351,6 +353,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0022-generate-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
