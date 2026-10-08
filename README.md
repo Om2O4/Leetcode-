@@ -24,6 +24,7 @@ The solutions in this repository are primarily implemented in:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Om2O4/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Om2O4/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -70,6 +71,7 @@ The solutions in this repository are primarily implemented in:
 | [0044-wildcard-matching](https://github.com/Om2O4/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Om2O4/Leetcode-/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Om2O4/Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
@@ -90,6 +92,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Om2O4/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Om2O4/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
