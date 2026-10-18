@@ -40,6 +40,7 @@ The solutions in this repository are primarily implemented in:
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Om2O4/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Om2O4/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Om2O4/Leetcode-/tree/master/1927-sum-game) |
 | [2485-find-the-pivot-integer](https://github.com/Om2O4/Leetcode-/tree/master/2485-find-the-pivot-integer) |
@@ -141,6 +142,7 @@ The solutions in this repository are primarily implemented in:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Om2O4/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Om2O4/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Om2O4/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/Om2O4/Leetcode-/tree/master/3524-find-x-value-of-array-i) |
@@ -161,6 +163,7 @@ The solutions in this repository are primarily implemented in:
 | [1470-shuffle-the-array](https://github.com/Om2O4/Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Om2O4/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Om2O4/Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Om2O4/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Om2O4/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -327,6 +330,7 @@ The solutions in this repository are primarily implemented in:
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Om2O4/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Binary Search
 |  |
@@ -377,4 +381,32 @@ The solutions in this repository are primarily implemented in:
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Om2O4/Leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
