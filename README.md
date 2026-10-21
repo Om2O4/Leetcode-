@@ -90,6 +90,7 @@ The solutions in this repository are primarily implemented in:
 | [3407-substring-matching-pattern](https://github.com/Om2O4/Leetcode-/tree/master/3407-substring-matching-pattern) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Om2O4/Leetcode-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Om2O4/Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Om2O4/Leetcode-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
