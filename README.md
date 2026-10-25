@@ -20,12 +20,14 @@ The solutions in this repository are primarily implemented in:
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Om2O4/Leetcode-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Om2O4/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Om2O4/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -159,6 +161,7 @@ The solutions in this repository are primarily implemented in:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2O4/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0485-max-consecutive-ones](https://github.com/Om2O4/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Om2O4/Leetcode-/tree/master/1470-shuffle-the-array) |
@@ -309,6 +312,7 @@ The solutions in this repository are primarily implemented in:
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Om2O4/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -398,6 +402,7 @@ The solutions in this repository are primarily implemented in:
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
