@@ -22,6 +22,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Om2O4/Leetcode-/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Om2O4/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ The solutions in this repository are primarily implemented in:
 | [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Om2O4/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Om2O4/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Om2O4/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -183,6 +185,7 @@ The solutions in this repository are primarily implemented in:
 | [3524-find-x-value-of-array-i](https://github.com/Om2O4/Leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Om2O4/Leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Om2O4/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Om2O4/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Om2O4/Leetcode-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Om2O4/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Om2O4/Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -314,6 +317,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Om2O4/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Om2O4/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -404,6 +408,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Om2O4/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
