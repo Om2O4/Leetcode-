@@ -41,6 +41,7 @@ The solutions in this repository are primarily implemented in:
 | ------- |
 | [0067-add-binary](https://github.com/Om2O4/Leetcode-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Om2O4/Leetcode-/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Om2O4/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Om2O4/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
@@ -162,6 +163,7 @@ The solutions in this repository are primarily implemented in:
 | [0027-remove-element](https://github.com/Om2O4/Leetcode-/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Om2O4/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2O4/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Om2O4/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Om2O4/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
