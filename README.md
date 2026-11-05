@@ -134,6 +134,7 @@ The solutions in this repository are primarily implemented in:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Om2O4/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Om2O4/Leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Om2O4/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Om2O4/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -171,6 +172,7 @@ The solutions in this repository are primarily implemented in:
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Om2O4/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Om2O4/Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Om2O4/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -237,6 +239,7 @@ The solutions in this repository are primarily implemented in:
 | [0018-4sum](https://github.com/Om2O4/Leetcode-/tree/master/0018-4sum) |
 | [1096-brace-expansion-ii](https://github.com/Om2O4/Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Om2O4/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Om2O4/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Om2O4/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -363,6 +366,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Om2O4/Leetcode-/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Om2O4/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Om2O4/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Om2O4/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Om2O4/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
