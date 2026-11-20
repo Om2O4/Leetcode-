@@ -157,6 +157,7 @@ The solutions in this repository are primarily implemented in:
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Om2O4/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Om2O4/Leetcode-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Om2O4/Leetcode-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Om2O4/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Om2O4/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Om2O4/Leetcode-/tree/master/3524-find-x-value-of-array-i) |
@@ -191,6 +192,7 @@ The solutions in this repository are primarily implemented in:
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Om2O4/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Om2O4/Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Om2O4/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Om2O4/Leetcode-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Om2O4/Leetcode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Om2O4/Leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Om2O4/Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -251,6 +253,7 @@ The solutions in this repository are primarily implemented in:
 | [2089-find-target-indices-after-sorting-array](https://github.com/Om2O4/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Om2O4/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Om2O4/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Om2O4/Leetcode-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Om2O4/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
