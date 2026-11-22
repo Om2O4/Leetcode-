@@ -91,6 +91,7 @@ The solutions in this repository are primarily implemented in:
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Om2O4/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Om2O4/Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Om2O4/Leetcode-/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Om2O4/Leetcode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Om2O4/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Om2O4/Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Om2O4/Leetcode-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
