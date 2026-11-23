@@ -44,6 +44,7 @@ The solutions in this repository are primarily implemented in:
 | [0069-sqrtx](https://github.com/Om2O4/Leetcode-/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Om2O4/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Om2O4/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1510-stone-game-iv](https://github.com/Om2O4/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Om2O4/Leetcode-/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Om2O4/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -179,6 +180,7 @@ The solutions in this repository are primarily implemented in:
 | [0485-max-consecutive-ones](https://github.com/Om2O4/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Om2O4/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Om2O4/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Om2O4/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Om2O4/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Om2O4/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -229,6 +231,7 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Om2O4/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Om2O4/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Om2O4/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/Om2O4/Leetcode-/tree/master/2485-find-the-pivot-integer) |
 | [3904-smallest-stable-index-ii](https://github.com/Om2O4/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
@@ -473,4 +476,12 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Om2O4/Leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Om2O4/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Om2O4/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
