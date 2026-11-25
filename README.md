@@ -222,6 +222,7 @@ The solutions in this repository are primarily implemented in:
 | [3876-construct-uniform-parity-array-ii](https://github.com/Om2O4/Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Om2O4/Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/Om2O4/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Om2O4/Leetcode-/tree/master/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -311,6 +312,7 @@ The solutions in this repository are primarily implemented in:
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Om2O4/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Om2O4/Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Om2O4/Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/Om2O4/Leetcode-/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -394,6 +396,7 @@ The solutions in this repository are primarily implemented in:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Om2O4/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Om2O4/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Om2O4/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/Om2O4/Leetcode-/tree/master/3934-smallest-unique-subarray) |
 ## Concurrency
 |  |
 | ------- |
@@ -489,4 +492,16 @@ The solutions in this repository are primarily implemented in:
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Om2O4/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Om2O4/Leetcode-/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Om2O4/Leetcode-/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Om2O4/Leetcode-/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
